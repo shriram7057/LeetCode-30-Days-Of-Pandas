@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
 </p>
 
-<h1 align="center"># 🐼 LeetCode 30 Days of Pandas Challenge</h1>
+<h1 align="center">🐼 LeetCode 30 Days of Pandas Challenge</h1>
 
 Welcome to my repository for the **LeetCode 30 Days of Pandas Challenge**!  
 This repo contains my daily solutions, explanations, and notes for all 30 problems designed to improve **data manipulation and analysis skills using Python's Pandas library**.
