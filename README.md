@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="230" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20of%20PD.gif?raw=true" width="220" />
 </p>
 
 <h1 align="center">🐼 LeetCode 30 Days of Pandas Challenge</h1>
